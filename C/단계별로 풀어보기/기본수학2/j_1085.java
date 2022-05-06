@@ -1,7 +1,4 @@
 import java.util.Scanner;
-
-import javax.xml.crypto.dsig.keyinfo.X509Data;
-
 public class j_1085 {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
